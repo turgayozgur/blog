@@ -10,8 +10,8 @@ publishDir = "docs"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Djordje Atlialp"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  description = "Turgay Özgür personal web site and blog."
+  keywords = "homepage, blog, science, informatics, development, programming, turgayozgur"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
@@ -43,7 +43,8 @@ publishDir = "docs"
 [languages]
   [languages.en]
     title = "Turgay Özgür"
-    subtitle = "Personal Web Site"
+    subtitle = ""
+    homeSubtitle = "Jr. Software Architect at ciceksepeti.com"
     keywords = ""
     copyright = "turgayozgur.com"
     readOtherPosts = "Read other posts"
