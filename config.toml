@@ -22,7 +22,7 @@ publishDir = "docs"
   # Social icons
   [[params.social]]
     name = "email"
-    url  = "ozgurtrgy@gmail.com"
+    url  = "mailto:ozgurtrgy@gmail.com"
 
   [[params.social]]
     name = "github"
