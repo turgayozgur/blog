@@ -1,0 +1,79 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+publishDir = "docs"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Djordje Atlialp"
+  keywords = "homepage, blog, science, informatics, development, programming"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "ozgurtrgy@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/turgayozgur"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/turgayozgur"
+
+  [[params.social]]
+    name = "medium"
+    url  = "https://medium.com/@ozgurtrgy"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/turgayozgur"
+
+[languages]
+  [languages.en]
+    title = "Turgay Özgür"
+    subtitle = "Personal Web Site"
+    keywords = ""
+    copyright = "turgayozgur.com"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "turgayozgur:"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    # [languages.en.menu]
+    #   [[languages.en.menu.main]]
+    #     identifier = "about"
+    #     name = "About"
+    #     url = "/about"
+    #   [[languages.en.menu.main]]
+    #     identifier = "showcase"
+    #     name = "Showcase"
+    #     url = "/showcase"
+
+# And you can even create generic menu
+# [menu]
+#   [[menu.main]]
+#     identifier = "about"
+#     name       = "About"
+#     url        = "/about"
+#   [[menu.main]]
+#     identifier = "blog"
+#     name       = "Blog"
+#     url        = "/posts"
