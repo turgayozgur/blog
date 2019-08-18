@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 publishDir = "docs"
+googleAnalytics = "UA-19819210-1"
 
 [params]
   dateform        = "Jan 2, 2006"
