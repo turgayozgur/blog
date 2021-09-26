@@ -35,7 +35,7 @@ googleAnalytics = "UA-19819210-1"
 
   [[params.social]]
     name = "medium"
-    url  = "https://medium.com/@ozgurtrgy"
+    url  = "https://turgayozgur.medium.com"
 
   [[params.social]]
     name = "twitter"
