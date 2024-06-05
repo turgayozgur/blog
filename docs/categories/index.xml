@@ -7,6 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 turgayozgur.com</copyright>
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finance</title>
+      <link>/categories/finance/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trading</title>
+      <link>/categories/trading/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TradingView</title>
+      <link>/categories/tradingview/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/tradingview/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 publishDir = "docs"
+contentDir   = "content"
 googleAnalytics = "UA-19819210-1"
 
 [params]
@@ -63,11 +64,11 @@ googleAnalytics = "UA-19819210-1"
     # alt = "Your example logo alt text"
 
 	# You can create a language based menu
-    # [languages.en.menu]
-    #   [[languages.en.menu.main]]
-    #     identifier = "about"
-    #     name = "About"
-    #     url = "/about"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "post"
+        name = "Blog"
+        url = "/posts"
     #   [[languages.en.menu.main]]
     #     identifier = "showcase"
     #     name = "Showcase"
